@@ -1,13 +1,17 @@
-## Running React on Repl.it
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## FindAndReplace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/connectai-e/awesome-basescript)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+> 按照一定条件查找重复的记录，并删除它们
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+![image](https://github.com/ConnectAI-E/BaseScript-SearchAndDeduplication/assets/110169811/1c339991-3068-4306-ae17-ac24001c7a4a)
+
 
 ### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+1️⃣ clone deme
+```
+git clone https://github.com/ConnectAI-E/BaseScript-ConnectPrompt
+pnpm install
+pnpm dev
+```
+2️⃣ 复制 http://localhost:5173/ 到 多维表格 webview 地址
