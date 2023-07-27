@@ -10,7 +10,7 @@
 
 1️⃣ clone deme
 ```
-git clone https://github.com/ConnectAI-E/BaseScript-ConnectPrompt
+git clone https://github.com/ConnectAI-E/BaseScript-SearchAndDeduplication
 pnpm install
 pnpm dev
 ```
