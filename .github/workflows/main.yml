@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  cache-and-install:
+  install:
     runs-on: ubuntu-latest
 
     steps:
