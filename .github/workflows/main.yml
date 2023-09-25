@@ -31,7 +31,7 @@ jobs:
           version: 8
             
       - name: Build
-        run: pnpm run github:build
+        run: pnpm run build
 
       - name: Deploy GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
